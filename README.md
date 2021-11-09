@@ -35,6 +35,11 @@
 
 
  ## Screenshots
+ ## Admin
+ 
+ ![Screenshot (55)](https://user-images.githubusercontent.com/92842316/140882361-8a3bea9c-8f31-4dab-aa23-a1acd0512cfa.png)
+ ![Screenshot (56)](https://user-images.githubusercontent.com/92842316/140882380-8d87f7d0-42d8-41cd-b9b2-30fe15229b63.png)
+ 
  ## User
  ![Screenshot (51)](https://user-images.githubusercontent.com/92842316/140882335-dd3feb78-ac8d-410a-a911-ecc7085f01ad.png)
 
