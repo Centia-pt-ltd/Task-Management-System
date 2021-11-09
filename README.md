@@ -35,9 +35,9 @@
 
 
  ## Screenshots
+ ## User
  ![Screenshot (51)](https://user-images.githubusercontent.com/92842316/140882335-dd3feb78-ac8d-410a-a911-ecc7085f01ad.png)
-![Screenshot (52)](https://user-images.githubusercontent.com/92842316/140882338-1f9e![Screenshot (53)](https://user-images.githubusercontent.com/92842316/140882346-a01cadf3-5f96-476d-b204-3b4b423ffd14.png)
-3c62-bce0-44c6-a01c-c1bcbb0397ab.png)
+
 ![Screenshot (54)](https://user-images.githubusercontent.com/92842316/140882354-60955ee6-2e97-4286-a946-e5833f7554cb.png)
 
 
