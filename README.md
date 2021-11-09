@@ -45,10 +45,8 @@
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/92842316/140882354-60955ee6-2e97-4286-a946-e5833f7554cb.png)
 
+ ## Super Admin
 
-![Screenshot (55)](https://user-images.githubusercontent.com/92842316/140882361-8a3bea9c-8f31-4dab-aa23-a1acd0512cfa.png)
-
-![Screenshot (56)](https://user-images.githubusercontent.com/92842316/140882380-8d87f7d0-42d8-41cd-b9b2-30fe15229b63.png)
 
  ![Screenshot (57)](https://user-images.githubusercontent.com/92842316/140882384-fbcfea88-7e48-48d9-94a5-c15dae34afdd.png)
 ![Screenshot (58)](https://user-images.githubusercontent.com/92842316/140882392-7dba688d-98df-4298-a71b-a32c8b50e791.png)
